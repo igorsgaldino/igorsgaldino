@@ -3,8 +3,6 @@
 - 🎈 Quality Assurance Analyst
 - 📫 Linkedin: https://www.linkedin.com/in/igorsgaldino/
 
-<p>Atualmente cursando Análise e Desenvolvimentos de Sistemas na Universidade Paulista - Campus Santos. 
-
 Quality Assurance: 
 - Experiência em testes funcionais (testes de serviço, APIs, web).
 - Experiência em testes automatizados utilizando Cypress.
