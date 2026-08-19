@@ -34,7 +34,7 @@ Quality Assurance:
 ![Jmeter](https://img.shields.io/badge/-Jmeter-555?style=flat&logo=jmeter)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-555?style=flat&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-555?style=flat&logo=css)
-![Python](https://img.shields.io/badge/-python-555?style=flat&logo=python)
+![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)
  
  ##
   
